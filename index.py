@@ -35,7 +35,7 @@ print ('''
             </div>
             <div class="nav-content">
                 <ul class="tabs tabs-transparent">                    
-                    <li class="tab"><a class="active" href="#test2">Visual Recognition Project</a></li>
+                    <li class="tab"><a class="active" href="#test2">VR PROJECT</a></li>
                     <li class="tab disabled"><a href="#test3">Disabled Tab</a></li>
 
                 </ul>
