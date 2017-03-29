@@ -1,0 +1,13 @@
+applications:
+- name: Interface-VR-HAMK
+  host: Interface-VR-HAMK
+  memory: 1024M
+  command: python server.py
+  command: python couch-app.py
+  recursive-include: watson_developer_cloud *.py *.md
+  services:
+  - todo-db
+  - Visual-Recognition-rm
+  install:
+  - pip install --upgrade watson-developer-cloud
+  
