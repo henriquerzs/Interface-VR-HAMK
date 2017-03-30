@@ -48,7 +48,6 @@ class upload:
 
         return nome,image
 
-    def PegaDados(self):
-        print("POOORRA CARALHO FUNCIONNAAA MERDA")
+
 
 
